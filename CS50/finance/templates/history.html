@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    History
+{% endblock %}
+
+{% block main %}
+<main class="container py-5 text-center">
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Symbol</th>
+            <th>Shares</th>
+            <th>Price</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for transaction in transactions %}
+        <tr>
+            <td> {{ transaction["symbol"].upper() }}</td>
+            <td> {{ transaction["shares"] }}</td>
+            <td> {{ usd(transaction["price"]) }}</td>
+            <td> {{ transaction["time"] }}</td>
+        </tr>
+        {% endfor %}
+        <tr>
+        </tbody>
+
+</table>
+</main>
+{% endblock %}

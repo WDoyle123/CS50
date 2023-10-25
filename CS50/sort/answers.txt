@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Omega = n and O = n^2 and therefore, a big difference in sorted and unsorted text times
+
+sort2 uses: Merged
+
+How do you know?: It is the fastest
+
+sort3 uses: Selection
+
+How do you know?: Theta = n^2 and therefore takes the same amount of time whether sorted or unsort
