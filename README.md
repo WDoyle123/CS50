@@ -4,6 +4,8 @@
   <img src="cs50.jpg" width="200" alt="CS50 Logo" />
 </div>
 
+<br>
+<br>
 
 Welcome to my CS50 2022 repository! This repository contains all the completed assignments and problem sets from the CS50 course offered by Harvard University. Although the final project is not included here, you will find a comprehensive collection of my work during the course.
 
