@@ -29,4 +29,6 @@ Here's a brief overview of the directory structure in this repository:
 - `pset5/`: Problem Set 5 (C)
 - `pset6/`: Problem Set 6 (Python)
 - `pset7/`: Problem Set 7 (SQL)
-- `pset8/`: Problem Set 8 (Web Development)
+- `pset8/`: Problem Set 8 (Web Development: Python, CSS, HTML)
+- `pset9/`: Problem Set 9 (Web Development: Python, CSS, HTML, SQL)
+
