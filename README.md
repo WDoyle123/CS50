@@ -1,6 +1,6 @@
 # CS50 2022 Repository
 
-![CS50 Logo](https://cs50.harvard.edu/x/2021/)
+![CS50 Logo](cs50.jpg)
 
 Welcome to my CS50 2022 repository! This repository contains all the completed assignments and problem sets from the CS50 course offered by Harvard University. Although the final project is not included here, you will find a comprehensive collection of my work during the course.
 
